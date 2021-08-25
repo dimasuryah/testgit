@@ -1,3 +1,5 @@
 Percobaan
 - mengenal git
 - meempelajari git
+- membuat akun
+- menggunakan tools
