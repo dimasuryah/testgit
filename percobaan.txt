@@ -1,0 +1,3 @@
+Percobaan
+- mengenal git
+- meempelajari git
